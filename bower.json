@@ -1,6 +1,6 @@
 {
   "name": "global-alert-wrapper",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "authors": [
     "Robert Taraya <robert.taraya@gmail.com>"
   ],
@@ -21,12 +21,12 @@
   "license": "MIT",
   "main": "global-alert-wrapper.html",
   "dependencies": {
-    "polymer": "Polymer/polymer#^1.4.0"
+    "polymer": "Polymer/polymer#1.9 - 2",
   },
   "devDependencies": {
-    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
-    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
-    "web-component-tester": "^4.0.0",
-    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+    "iron-component-page": "PolymerElements/iron-component-page#1 - 2",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#1 - 2",
+    "web-component-tester": "^6.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.0"
   }
 }
